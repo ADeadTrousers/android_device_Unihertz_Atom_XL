@@ -1,0 +1,4 @@
+# FMRadio
+/dev/fm                   0666   media     media
+/dev/snd/pcmC1D0p         0666   system    audio
+/dev/snd/pcmC1D0c         0666   system    audio

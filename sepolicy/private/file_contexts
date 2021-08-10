@@ -1,0 +1,4 @@
+/dev/stmcu                                                                                          u:object_r:extmodule_device:s0
+/dev/ttyTTCMD                                                                                       u:object_r:extmodule_device:s0
+/system/bin/dfu-util                                                                                u:object_r:extmodule_exec:s0
+/system/bin/extmodule                                                                               u:object_r:extmodule_exec:s0

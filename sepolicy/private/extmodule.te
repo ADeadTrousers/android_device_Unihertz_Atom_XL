@@ -1,0 +1,12 @@
+type extmodule_device, dev_type;
+type extmodule_service, service_manager_type;
+
+init_daemon_domain(extmodule);
+add_service(extmodule,extmodule_service);
+binder_use(extmodule);
+
+allow extmodule device:dir {read write add_name open};
+allow extmodule extmodule_device:dir {read write add_name open};
+allow extmodule extmodule_device:file {read write create open};
+allow extmodule extmodule_device:chr_file {read write open};
+allow extmodule extmodule_exec:file {getattr execute execute_no_trans};
