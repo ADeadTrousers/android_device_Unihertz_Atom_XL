@@ -1,2 +1,0 @@
-type extmodule, domain, mlstrustedsubject, binderservicedomain, coredomain;
-type extmodule_exec, file_type, exec_type, system_file_type;
