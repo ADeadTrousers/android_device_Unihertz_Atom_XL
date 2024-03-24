@@ -1,10 +1,10 @@
 # Atom XL DMR
 -app/Intercom/Intercom.apk
-lib/libwebrtc_ns.so
-lib/libwebrtc_agc.so
-lib/libwebrtc_vad.so
-lib/libwebrtc_aecm.so
-lib64/libwebrtc_ns.so
-lib64/libwebrtc_agc.so
-lib64/libwebrtc_vad.so
-lib64/libwebrtc_aecm.so
+-lib/libwebrtc_ns.so
+-lib/libwebrtc_agc.so
+-lib/libwebrtc_vad.so
+-lib/libwebrtc_aecm.so
+-lib64/libwebrtc_ns.so
+-lib64/libwebrtc_agc.so
+-lib64/libwebrtc_vad.so
+-lib64/libwebrtc_aecm.so
